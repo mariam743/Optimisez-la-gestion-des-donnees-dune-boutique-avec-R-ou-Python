@@ -1,0 +1,1 @@
+# Optimisez-la-gestion-des-donnees-dune-boutique-avec-R-ou-Python
