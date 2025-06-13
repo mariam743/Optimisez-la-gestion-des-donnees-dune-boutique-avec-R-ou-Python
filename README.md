@@ -1,7 +1,6 @@
 # Optimisez-la-gestion-des-donnees-dune-boutique-avec-R-ou-Python
-# Optimisez-la-gestion-des-donnees-d-une-boutique-avec-R-ou-Python
- 
-### Mission
+
+ ### Mission
 
 ### Le scénario
 
